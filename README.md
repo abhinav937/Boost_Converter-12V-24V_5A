@@ -12,7 +12,7 @@ Vin= 12V\
 Vout= 24V\
 I_out= 5A\
 V_ripple= 1% of Vout\
-Time to acheive steady state= 0.4ms
+Time to acheive switching steady state= 0.4ms
 ## Schematic Circuit 
 ![Schematic_diagram](https://user-images.githubusercontent.com/79394309/160254903-4b93e70d-5b38-42be-a321-66b62ab416b3.png)
 ## Waveforms
