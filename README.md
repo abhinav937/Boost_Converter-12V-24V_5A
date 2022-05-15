@@ -1,5 +1,5 @@
 # Boost_Converter_12V-24V_5A
-Simulation of Boost converter in LTspice which converts 12V to 24V with current throughput of 5A.
+Simulation of Boost converter in LTspice which converts 12V to 24V with current throughput of 5A without control system.
 ## Components Used
 1.5uH Inductor\
 104.66uF Capacitor\
